@@ -1,0 +1,2 @@
+# filmpuanlamasistemi
+izlediğimiz filmleri puanlama
